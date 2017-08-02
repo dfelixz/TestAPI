@@ -1,1 +1,11 @@
-{"swagger":"2.0","info":{"title":"Test01","description":"Desc 01","version":"1.0.0"}}
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Test01",
+    "description": "Desc 01",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/product": {}
+  }
+}
